@@ -1,0 +1,10 @@
+{
+	"id": "com.dta3team.2048",
+	"version": "1.0.0",
+	"vendor": "Dta3 team",
+	"type": "web",
+	"main": "index.html",
+	"title": "2048",
+	"icon": "meta/apple-touch-icon.png",
+	"uiRevision":2
+}
