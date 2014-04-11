@@ -67,5 +67,6 @@ enyo.kind({
 	},
 	create: function(){
 		this.inherited(arguments);
+		enyo.setAllowedOrientation( 'up' );
 	},
 });

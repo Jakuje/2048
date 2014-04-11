@@ -1,6 +1,6 @@
 {
 	"id": "com.dta3team.2048",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"vendor": "Dta3 team",
 	"type": "web",
 	"main": "index.html",
